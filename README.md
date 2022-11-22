@@ -7,3 +7,7 @@
 # Oyun Uygulamasi - 08 Kasim 2022
 
 https://classroom.github.com/a/--p4RmWl
+
+# Kalitim Uygulamasi - 22 Kasim 2022
+
+https://classroom.github.com/a/G_DANTIo
